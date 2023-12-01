@@ -21,6 +21,5 @@
 ![CHATGPT](https://img.shields.io/badge/-CHATGPT-090909?style=for-the-badge&logo=openai&logoColor=179287)
 ![JIRA](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=jira&logoColor=0052CC)
 
-Tools
-
-Contact
+[![codewars](https://www.codewars.com/users/Nae1/badges/small)](https://www.codewars.com/users/Nae1)<br>
+[![HTMLACADEMY](https://img.shields.io/badge/HTML%20Academy-090909?style=for-the-badge&logo=HTML%20Academy&logoColor=white)](https://htmlacademy.ru/profile/id2471469)
