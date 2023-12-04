@@ -19,6 +19,7 @@
 ![DOCKER](https://img.shields.io/badge/-DOCKER-090909?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![AWS](https://img.shields.io/badge/-AWS-090909?style=for-the-badge&logo=amazonaws&logoColor=F2C811)
 ![CHATGPT](https://img.shields.io/badge/-CHATGPT-090909?style=for-the-badge&logo=openai&logoColor=179287)
+![FIGMA](https://img.shields.io/badge/-FIGMA-090909?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![JIRA](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=jira&logoColor=0052CC)
 ![CODEWARS](https://img.shields.io/badge/-CODEWARS-090909?style=for-the-badge&logo=codewars&logoColor=B1361E)
 ![HTMLACADEMY](https://img.shields.io/badge/HTML%20Academy-090909?style=for-the-badge&logo=HTML%20Academy&logoColor=302683)
