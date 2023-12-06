@@ -23,4 +23,4 @@
 ![JIRA](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=jira&logoColor=0052CC)
 ![CODEWARS](https://img.shields.io/badge/-CODEWARS-090909?style=for-the-badge&logo=codewars&logoColor=B1361E)
 ![HTMLACADEMY](https://img.shields.io/badge/HTML%20Academy-090909?style=for-the-badge&logo=HTML%20Academy&logoColor=302683)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nae111)](https://git.io/streak-stats)
