@@ -1,4 +1,4 @@
-# About me
+# Welcome to my page
 
 
 [![Header](https://github.com/nae111/nae111/blob/main/assets/c263b7a53b37ef9fc8f75268c126121b.gif)](t.me/semper88)
@@ -22,5 +22,7 @@
 ![FIGMA](https://img.shields.io/badge/-FIGMA-090909?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![JIRA](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=jira&logoColor=0052CC)
 ![CODEWARS](https://img.shields.io/badge/-CODEWARS-090909?style=for-the-badge&logo=codewars&logoColor=B1361E)
-![HTMLACADEMY](https://img.shields.io/badge/HTML%20Academy-090909?style=for-the-badge&logo=HTML%20Academy&logoColor=302683)<hr>
-# About me
+![HTMLACADEMY](https://img.shields.io/badge/HTML%20Academy-090909?style=for-the-badge&logo=HTML%20Academy&logoColor=302683)
+
+#####  Links
+[About me](https://snakeclub.ru/)
