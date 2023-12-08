@@ -1,6 +1,5 @@
 # Welcome to my page
 
-
 <img https://github.com/nae111/nae111/blob/main/assets/c263b7a53b37ef9fc8f75268c126121b.gif width=100 height=100>
 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
