@@ -1,6 +1,6 @@
 # Welcome to my page
 
-<img src="https://github.com/nae111/nae111/blob/main/assets/c263b7a53b37ef9fc8f75268c126121b.gif" height=300 width=1000>
+<img src="https://github.com/nae111/nae111/blob/main/assets/c263b7a53b37ef9fc8f75268c126121b.gif" height=350 width=1000>
 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
 ![DJANGO](https://img.shields.io/badge/-DJANGO-090909?style=for-the-badge&logo=django&logoColor=092E20)
