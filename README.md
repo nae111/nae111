@@ -26,4 +26,3 @@
 #### Links
 * [About me](https://snakeclub.ru/)
 * [My codewars profile](https://www.codewars.com/users/Nae1)
-* [My profile on htmlacademy](https://htmlacademy.ru/profile/id2471469)
