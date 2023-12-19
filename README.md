@@ -15,7 +15,7 @@
 ![MYSQL](https://img.shields.io/badge/-MYSQL-090909?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![POSTGRESQL](https://img.shields.io/badge/-POSTRGESQL-090909?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![SQLITE](https://img.shields.io/badge/-SQLITE-090909?style=for-the-badge&logo=sqlite&logoColor=003B57)
-![REDIS](https://img.shields.io/badge/-REDIS-090909?style=for-the-badge&logo=redis&logoColor=003B57)
+![REDIS](https://img.shields.io/badge/-REDIS-090909?style=for-the-badge&logo=redis&logoColor=DC382D)
 ![DOCKER](https://img.shields.io/badge/-DOCKER-090909?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![AWS](https://img.shields.io/badge/-AWS-090909?style=for-the-badge&logo=amazonaws&logoColor=F2C811)
 ![CHATGPT](https://img.shields.io/badge/-CHATGPT-090909?style=for-the-badge&logo=openai&logoColor=179287)
