@@ -8,7 +8,7 @@
 ![FASTAPI](https://img.shields.io/badge/-FASTAPI-090909?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![GRAPHQL](https://img.shields.io/badge/-GRAPHQL-090909?style=for-the-badge&logo=graphql&logoColor=E10098)
 ![SWAGGER](https://img.shields.io/badge/-SWAGGER-090909?style=for-the-badge&logo=swagger&logoColor=85EA2D)
-![CELERY](https://img.shields.io/badge/-CELERY-090909?style=for-the-badge&logo=celery&logoColor=#37814A)
+![CELERY](https://img.shields.io/badge/-CELERY-090909?style=for-the-badge&logo=celery&logoColor=37814A)
 ![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JINJA](https://img.shields.io/badge/-JINJA-090909?style=for-the-badge&logo=jinja&logoColor=B41717)
